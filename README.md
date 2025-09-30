@@ -130,7 +130,7 @@ Showcase de mes projets
 
 **Expertise:** React ⚛️ • Laravel 🖥️ • API REST 🌐
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nassima-bakrime)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nassima-bakrime](https://www.linkedin.com/in/nassima-bakrime-218839254/))
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nassimabakrime@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pf-self-chi.vercel.app/)
 [![CV](https://img.shields.io/badge/CV-Download-A855F7?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](./CV.pdf)
